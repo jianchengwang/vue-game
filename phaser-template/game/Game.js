@@ -1,8 +1,8 @@
-import '~/game/PhaserBridge'
-import BootState from '~/game/states/BootState'
-import PreloadState from '~/game/states/PreloadState'
-import MainMenuState from '~/game/states/MainMenuState'
-import GameState from '~/game/states/GameState'
+import '~/phaser-template/game/PhaserBridge'
+import BootState from '~/phaser-template/game/states/BootState'
+import PreloadState from '~/phaser-template/game/states/PreloadState'
+import MainMenuState from '~/phaser-template/game/states/MainMenuState'
+import GameState from '~/phaser-template/game/states/GameState'
 
 class Game extends Phaser.Game {
 

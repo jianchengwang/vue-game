@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import settings from "~/game/Settings";
+import settings from "~/phaser-template/game/Settings";
 
 export default {
   data() {

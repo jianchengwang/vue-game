@@ -1,4 +1,4 @@
-import '~/game/PhaserBridge'
+import '~/phaser-template/game/PhaserBridge'
 
 class PreloadState extends Phaser.State {
 

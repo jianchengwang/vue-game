@@ -1,7 +1,7 @@
 module.exports = {
   // setting the currents page html header params
   head: {
-    titleTemplate: 'Phaser Game - %s', // the title of the site, %s is the placeholder for the current page's title
+    titleTemplate: 'Vue Game - %s', // the title of the site, %s is the placeholder for the current page's title
     htmlAttrs: {
       lang: 'en'
     },
